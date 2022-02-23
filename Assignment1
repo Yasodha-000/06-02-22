@@ -1,0 +1,10 @@
+1 a=int(input())
+2 b=int(input())
+3 c=a+b
+4 d=a-b
+5 e=a/b
+6 f=a*b
+7 print (c) 
+8 print(d)
+9 print(e)
+10 print(f)
